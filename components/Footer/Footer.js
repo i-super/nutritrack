@@ -1,6 +1,8 @@
 import { SectionContainer } from "@components/Section";
 import Link from "next/link";
 import Image from "next/image";
+import { ButtonGroup } from "@components/Button";
+import { Icon } from "@iconify/react";
 
 const DATA = [
     {
@@ -58,7 +60,7 @@ export const Footer = () => {
                 <div className="footer--content-container py-16">
                     <div className="footer-links mb-12 grid grid-cols-2 gap-8 md:mb-16 md:grid-cols-8 lg:grid-cols-12">
                         <div className="col-span-6">
-                            <div className="footer--logo">
+                            <div className="footer--logo grid gap-8">
                                 <Link href="/">
                                     <Image
                                         src="/nutritrack.svg"
@@ -69,6 +71,17 @@ export const Footer = () => {
                                         priority
                                     />
                                 </Link>
+                                {/* Get Template button; remove if not used */}
+                                <ButtonGroup alignment="left">
+                                    <a
+                                        role="button"
+                                        href="https://avenuelabs.lemonsqueezy.com/checkout/buy/df8ccd46-fa63-4384-b2aa-c4c9b8ad3ef0?embed=1"
+                                        className="btn btn--secondary lemonsqueezy-button"
+                                    >
+                                        Get Template
+                                        <Icon icon="material-symbols:arrow-forward-rounded" />
+                                    </a>
+                                </ButtonGroup>
                             </div>
                         </div>
                         <div className="col-span-6">
