@@ -1,7 +1,7 @@
 {
     "name": "nutritrack",
-    "version": "0.1.0",
-    "description": "Nutritrack - A website developed by Avenue Labs, using the Avenue Starter.",
+    "version": "1.1.0",
+    "description": "NutriTrack - A customizable landing page theme built with AstroJS and TailwindCSS, specifically designed for Notion creators.",
     "main": "index.js",
     "private": true,
     "repository": {
@@ -17,8 +17,8 @@
         "tailwindcss",
         "tailwind"
     ],
-    "author": "Christian Luntok",
-    "homepage": "https://cjluntok.com/",
+    "author": "chrstnl",
+    "homepage": "https://chrstnl.com/",
     "scripts": {
         "dev": "next dev",
         "build": "next build",

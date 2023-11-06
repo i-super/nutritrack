@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  NutriTrack - Avenue Labs landing page template 🚀
+  NutriTrack - A landing page template 🚀
 </h1>
 
 NutriTrack is a customizable NextJS and TailwindCSS landing page template that offers personalized styling and easy customization. Tailored to provide a minimal design, it allows you to effortlessly create a site that suits your requirements. You can easily make use of the components and customize the code to mix and match to suit your needs.
@@ -42,7 +42,7 @@ NutriTrack scores 100/100 in the Lighthouse performance audit.
 
 ## Demo
 
-Check out the [Demo](https://nutritrack.avenuelabs.co/), hosted on Vercel.
+Check out the [Demo](https://nutritrack.chrstnl.com/), hosted on Vercel.
 
 ## Commands
 
@@ -62,7 +62,7 @@ env: {
   siteTitle: 'Your Company',
   siteDescription: 'Your company description.',
   siteKeywords: 'your company keywords',
-  siteUrl: 'https://nutritrack.avenuelabs.co/',
+  siteUrl: 'https://nutritrack.chrstnl.com/',
   siteImagePreviewUrl: '/images/preview.jpeg',
   twitterHandle: '@your_handle'
 }
@@ -78,14 +78,10 @@ Update the manifest.json file and the icons under the public/images/icons folder
 
 You can use free tools online such as https://realfavicongenerator.net/ to quickly generate all the different icon sizes and favicon.ico file.
 
-## License
-
-Licensed under the MIT License, Copyright © 2023
-
 ## Feedback and Suggestions
 
-If you have any suggestions/feedback, you can contact the creator, Christian Luntok, via [hey@avenuelabs.co](mailto:hey@avenuelabs.co). Alternatively, feel free to open an issue if you find bugs or want to request new features.
+If you have any suggestions/feedback feel free to open an issue if you find bugs or want to request new features.
 
 ---
 
-Made by [Christian Luntok - Avenue Labs](https://avenuelabs.co/)
+Made by [chrstnl](https://chrstnl.com/)
