@@ -27,13 +27,6 @@ const accordionData = [
     },
     {
         id: uuid(),
-        title: "What will I get when I buy this template?",
-        isOpen: false,
-        content:
-            "When you purchase this template, you will receive a customizable NextJS landing page template built with TailwindCSS, allowing you to create a personalized and visually stunning landing page for your Notion workspace. The template comes with the necessary setup and documentation to help you get started quickly."
-    },
-    {
-        id: uuid(),
         title: "Where can I ask more questions about this template?",
         isOpen: false,
         content:

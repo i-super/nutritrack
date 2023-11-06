@@ -9,7 +9,7 @@ const navigation = [
     { name: "FAQ?", to: "#faq", href: "/#faq" },
     {
         name: "Contact",
-        href: "https://cjluntok.com/",
+        href: "https://chrstnl.com/",
         isArrow: true,
         target: "_blank"
     }

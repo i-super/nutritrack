@@ -38,8 +38,8 @@ export const HomeBanner = () => {
                             <Button href="#features">Features</Button>
                             <a
                                 role="button"
-                                href="https://avenuelabs.lemonsqueezy.com/checkout/buy/df8ccd46-fa63-4384-b2aa-c4c9b8ad3ef0?embed=1"
-                                className="btn btn--secondary lemonsqueezy-button"
+                                href="https://github.com/christian-luntok/nutritrack"
+                                className="btn btn--secondary"
                             >
                                 Get Template
                                 <Icon icon="material-symbols:arrow-forward-rounded" />
