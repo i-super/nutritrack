@@ -27,22 +27,22 @@ const DATA = [
         items: [
             {
                 label: "About",
-                href: "https://github.com/christian-luntok/",
+                href: "https://github.com/p-ryder/",
                 target: "_blank"
             },
             {
                 label: "Twitter",
-                href: "https://github.com/christian-luntok/",
+                href: "https://github.com/p-ryder/",
                 target: "_blank"
             },
             {
                 label: "Instagram",
-                href: "https://github.com/christian-luntok/",
+                href: "https://github.com/p-ryder/",
                 target: "_blank"
             },
             {
                 label: "Facebook",
-                href: "https://github.com/christian-luntok/",
+                href: "https://github.com/p-ryder/",
                 target: "_blank"
             }
         ]
@@ -75,7 +75,7 @@ export const Footer = () => {
                                 <ButtonGroup alignment="left">
                                     <a
                                         role="button"
-                                        href="https://github.com/christian-luntok/nutritrack"
+                                        href="https://github.com/p-ryder/nutritrack"
                                         className="btn btn--secondary"
                                     >
                                         Get Template

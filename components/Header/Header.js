@@ -31,7 +31,7 @@ export const Header = () => {
                     <ButtonGroup className="hidden md:block">
                         <a
                             role="button"
-                            href="https://github.com/christian-luntok/nutritrack"
+                            href="https://github.com/p-ryder/nutritrack"
                             className="btn btn--secondary ml-4"
                         >
                             Get Template

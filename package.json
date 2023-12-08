@@ -6,7 +6,7 @@
     "private": true,
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/christian-luntok/nutritrack.git"
+        "url": "git+https://github.com/p-ryder-luntok/nutritrack.git"
     },
     "keywords": [
         "next",

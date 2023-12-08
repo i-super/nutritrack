@@ -83,5 +83,3 @@ You can use free tools online such as https://realfavicongenerator.net/ to quick
 If you have any suggestions/feedback feel free to open an issue if you find bugs or want to request new features.
 
 ---
-
-Made by [chrstnl](https://chrstnl.com/)
